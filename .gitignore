@@ -1,0 +1,8 @@
+code_run/
+.env
+.cache/
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+.venv/
