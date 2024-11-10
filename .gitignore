@@ -6,3 +6,4 @@ code_run/
 *.pyo
 *.pyd
 .venv/
+log*
